@@ -1,0 +1,2 @@
+# booncore
+BTC Wordpress theme
